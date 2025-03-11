@@ -1,0 +1,12 @@
+Name: Raymond Doe
+Phone: 3210987654
+Address: 123 NE Geek St
+State: OR
+Zip: 12345
+Date Service Provided: 03-14-2024
+Date Service Billed: 03-14-2024 19:44:41
+Member Name: John Smith
+Member Phone: 8765432109
+Service Code: 503597
+Fee: 10
+

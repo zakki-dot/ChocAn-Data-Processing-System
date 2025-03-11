@@ -1,0 +1,27 @@
+Current Date and Time: 03-13-2024 23:54:27
+Date Service Provided: 03-13-2023
+Provider Number: 
+Member Number: 517040
+Service Code: 162528
+Comments: Dave has a slight leg injury
+
+Current Date and Time: 03-13-2024 23:55:31
+Date Service Provided: 03-13-2024
+Provider Number: 
+Member Number: 51432
+Service Code: 790691
+Comments: Garrett has diabetes
+
+Current Date and Time: 03-14-2024 00:06:46
+Date Service Provided: 03-13-2024
+Provider Number: 
+Member Number: 51432
+Service Code: 805924
+
+Current Date and Time: 03-14-2024 19:44:41
+Date Service Provided: 03-14-2024
+Provider Phone: 3210987654
+Member Phone: 8765432109
+Service Code: 503597
+
+

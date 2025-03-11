@@ -1,0 +1,12 @@
+598470|session with a dietitian|20
+162528|Aerobics exercise session|33
+819675|Therapeutic counseling|37
+790691|Session with a dietitian|18
+395012|Physiotherapy session|45
+503597|Yoga session|10
+637531|Nutrition consultation|34
+805924|Pilates class|45
+459274|Massage therapy session|31
+034486|Tai Chi class|28
+195746|Personal training session|17
+000001|TEST_SERVICE_CODE|11

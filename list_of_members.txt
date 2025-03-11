@@ -1,0 +1,7 @@
+Dave Ben:5551234567:456 Oak St:OR:Portland:97213:567890123:1:PSU Student
+Noah Rober:5038567837:4729:CA:Los Angeles:759302:528503217:1:Allergic to nuts
+Emily Johnson:2345678901:321 Cedar Rd:OR:Portland:97345:321098765:1:Grad Student
+Garrett Dane:9876543210:789 Maple Ave:OR:Portland:97345:234567890:1:OSU Student
+Alex Brown:8901234567:555 Birch Blvd:OR:Portland:97650:987654321:0:Has eczema and peanut allergies
+John Smith:8765432109:789 Elm St:WA:Vancouver:97213:456789012:1:Has ADHD
+Lisa Wong:1234567890:123 Pine St:ID:Idaho City:97219:908172634:0:Has dementia
